@@ -96,34 +96,6 @@ Problems in this repository are solved from:
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AadiptoGhosh&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiptoGhosh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 📉 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiptoGhosh&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AadiptoGhosh&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
-
 ## 🎯 Problem Solving Workflow
 
 For every problem:
@@ -166,14 +138,4 @@ Consider giving it a ⭐ to support the project and motivate further contributio
 
 ### Keep Solving. Keep Learning. Keep Improving.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-<!---LeetCode Topics End-->
+
