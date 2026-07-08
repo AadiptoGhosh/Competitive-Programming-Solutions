@@ -177,3 +177,15 @@ Consider giving it a ⭐ to support the project and motivate further contributio
 ### Happy Coding! 🚀
 
 ### Keep Solving. Keep Learning. Keep Improving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
