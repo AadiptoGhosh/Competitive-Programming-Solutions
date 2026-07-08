@@ -139,3 +139,11 @@ Consider giving it a ⭐ to support the project and motivate further contributio
 ### Keep Solving. Keep Learning. Keep Improving.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
