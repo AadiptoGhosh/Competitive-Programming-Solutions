@@ -1,5 +1,7 @@
 # 🚀 Competitive Programming Solutions
 
+---
+
 ## 📖 About
 
 This repository contains my solutions to various Competitive Programming and Data Structures & Algorithms problems solved across different online judges and coding platforms.
