@@ -153,9 +153,9 @@ For every problem:
 
 ## 🤝 Connect With Me
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/AadiptoGhosh)
-* LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/aadipto-ghosh/)
-* LeetCode: [https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/aadiptoghosh/)
+* GitHub: https://github.com/AadiptoGhosh
+* LinkedIn: https://www.linkedin.com/in/aadipto-ghosh
+* LeetCode: https://leetcode.com/u/aadiptoghosh
 * Codeforces: https://codeforces.com/profile/YOUR_USERNAME
 
 ---
