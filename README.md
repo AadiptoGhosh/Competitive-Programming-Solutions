@@ -112,7 +112,7 @@ Problems in this repository are solved from:
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiptoGhosh&theme=tokyo-night&hide_border=true" />
 
 </p>
 
