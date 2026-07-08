@@ -1,15 +1,5 @@
 # 🚀 Competitive Programming Solutions
 
-<p align="center">
-
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPOSITORY?style=for-the-badge)
-
-</p>
-
 ## 📖 About
 
 This repository contains my solutions to various Competitive Programming and Data Structures & Algorithms problems solved across different online judges and coding platforms.
