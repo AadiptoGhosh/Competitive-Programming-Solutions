@@ -100,9 +100,9 @@ Problems in this repository are solved from:
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AadiptoGhosh&show_icons=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AadiptoGhosh&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiptoGhosh&layout=compact"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadiptoGhosh&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -122,7 +122,7 @@ Problems in this repository are solved from:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiptoGhosh&theme=tokyo-night&hide_border=true" />
 
 </p>
 
