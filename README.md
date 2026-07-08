@@ -108,16 +108,6 @@ Problems in this repository are solved from:
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadiptoGhosh&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
 ## 📉 Activity Graph
 
 <p align="center">
@@ -127,6 +117,12 @@ Problems in this repository are solved from:
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AadiptoGhosh&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
 
 ## 🎯 Problem Solving Workflow
 
