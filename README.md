@@ -137,22 +137,3 @@ Consider giving it a ⭐ to support the project and motivate further contributio
 ### Happy Coding! 🚀
 
 ### Keep Solving. Keep Learning. Keep Improving.
-
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0009-palindrome-number) |
-| [0013-roman-to-integer](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0013-roman-to-integer) |
-## Hash Table
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0013-roman-to-integer) |
-## String
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0013-roman-to-integer) |
-<!---LeetCode Topics End-->
