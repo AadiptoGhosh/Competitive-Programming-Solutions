@@ -137,3 +137,15 @@ Consider giving it a ⭐ to support the project and motivate further contributio
 ### Happy Coding! 🚀
 
 ### Keep Solving. Keep Learning. Keep Improving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
