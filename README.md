@@ -144,6 +144,7 @@ Consider giving it a ⭐ to support the project and motivate further contributio
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Consider giving it a ⭐ to support the project and motivate further contributio
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AadiptoGhosh/Competitive-Programming-Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
